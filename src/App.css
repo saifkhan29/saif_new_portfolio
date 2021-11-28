@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+
+
+body{
+  background-color: #343A40;
+
+}
+
+html, body{
+  scroll-behavior: smooth;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
